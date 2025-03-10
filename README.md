@@ -9,8 +9,6 @@ Ini adalah proyek **landing page statis sederhana** menggunakan **HTML, CSS, dan
    git clone https://github.com/username/my-simple-website.git
    cd my-simple-website
 
-   Buka index.html langsung di browser:
-
 2. Jalankan dengan Live Server di VS Code :
 
 Install extension Live Server
