@@ -6,12 +6,12 @@ Ini adalah proyek **landing page statis sederhana** menggunakan **HTML, CSS, dan
 
 1. **Clone repository ini:**  
    ```bash
-   git clone https://github.com/username/my-simple-website.git
+   git clone https://github.com/zulvanavito/family-gardens.git
+
+2. ```bash
    cd my-simple-website
-
-2. Jalankan dengan Live Server di VS Code :
-
-Install extension Live Server
-Klik kanan index.html > Open with Live Server
+   
+3. Atau Buka Folder family-garden di VSCode
+4. Jalankan lewat ekstensi Live Server!
 
 
