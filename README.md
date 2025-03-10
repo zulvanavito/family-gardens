@@ -1,29 +1,9 @@
-🌍 Simple Landing Page
-Ini adalah proyek landing page statis sederhana menggunakan HTML, CSS, dan JavaScript.
+# 🌍 Simple Landing Page
 
-📂 Struktur Folder
-bash
-Salin
-Edit
-/my-simple-website
-│── css/       # File CSS untuk styling
-│── img/       # Folder untuk gambar
-│── js/        # File JavaScript
-│── index.html # Halaman utama
-│── .DS_Store  # (Bisa dihapus, ini file bawaan macOS)
-🚀 Cara Clone & Menjalankan
-Clone repository ini:
+![GitHub repo size](https://img.shields.io/github/repo-size/username/my-simple-website)
+![GitHub stars](https://img.shields.io/github/stars/username/my-simple-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/username/my-simple-website?style=social)
 
-bash
-Salin
-Edit
-git clone https://github.com/username/my-simple-website.git
-cd my-simple-website
-Buka index.html langsung di browser:
+Ini adalah proyek **landing page statis sederhana** menggunakan **HTML, CSS, dan JavaScript**.
 
-Klik dua kali index.html atau
-Drag & drop file index.html ke browser
-Jalankan dengan Live Server (Opsional, jika pakai VS Code):
-
-Install extension Live Server
-Klik kanan index.html > Open with Live Server
+## 📂 Struktur Folder
